@@ -1,0 +1,1 @@
+这是一个ingress-nginx镜像
